@@ -1,0 +1,307 @@
+{
+  "project_info": {
+    "project_number": "181225854885",
+    "firebase_url": "https://messengerchat-4a156-default-rtdb.firebaseio.com",
+    "project_id": "messengerchat-4a156",
+    "storage_bucket": "messengerchat-4a156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:07ed9814f0d9265f3b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.event_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:78e033593cbc31ff3b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.firestore_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:eec0f170266fdbd03b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:84cbd8a4c23c2c763b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.harees_new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:3cb111ddfd6a3a363b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:629c7b4898c387c53b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:e10ff995e5a3b7163b7a4c",
+        "android_client_info": {
+          "package_name": "com.example.video_play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181225854885:android:d4d6ec1c003fcc6f3b7a4c",
+        "android_client_info": {
+          "package_name": "com.smite.dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181225854885-ibqv03687efm6eslq5h5d7j8t4a6eepi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smite.dummy",
+            "certificate_hash": "77f84005d8b2cbcf61b6522527fba46235ef59b8"
+          }
+        },
+        {
+          "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi77sxeh7eDSMtHJmIoJx75KVK4kkkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181225854885-t7gq9170l5f4mvg26d7f93cs0v95rhk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181225854885-6jmkliqflcb1fi7t1s1mc0tsq6lv6caa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
